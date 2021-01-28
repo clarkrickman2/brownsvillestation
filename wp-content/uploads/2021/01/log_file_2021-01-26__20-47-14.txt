@@ -1,0 +1,108 @@
+
+---Downloaded files---
+The import files for: All Demo Pages were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://clizoud.com/brownsville
+Data file = /var/www/html/brownsville/wp-content/uploads/2021/01/demo-content-import-file_2021-01-26__20-47-14.xml
+Widget file = /var/www/html/brownsville/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-26__20-47-14.json
+Customizer file = /var/www/html/brownsville/wp-content/uploads/2021/01/demo-customizer-import-file_2021-01-26__20-47-14.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Discography - No Title - Imported
+Event list - No Title - Imported
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+wolfgram-widget - Instagrams - Site does not support widget
+Twitter - Twitter Feed - Imported
+
+Page Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+sidebar-side-panel : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+Videos Sidebar : 
+
+Products - New Merch - Imported
+wolfgram-widget - Instagrams - Site does not support widget
+
+Shop Sidebar : 
+
+Products - Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

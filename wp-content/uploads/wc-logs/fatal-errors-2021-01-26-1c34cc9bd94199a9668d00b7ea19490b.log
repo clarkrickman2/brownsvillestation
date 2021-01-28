@@ -1,0 +1,4 @@
+2021-01-26T22:07:10+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 8192 bytes) in /var/www/html/brownsville/wp-content/themes/bronze/inc/frontend/helpers.php on line 128
+
+2021-01-26T23:59:57+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 4096 bytes) in /var/www/html/brownsville/wp-content/themes/bronze/inc/frontend/helpers.php on line 128
+

@@ -1,0 +1,52 @@
+2021-01-27T00:24:39+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 65536 bytes) in /var/www/html/brownsville/wp-includes/Requests/Response/Headers.php on line 13
+
+2021-01-27T01:13:58+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 32768 bytes) in /var/www/html/brownsville/wp-content/themes/bronze/inc/admin/lib/class-tgm-plugin-activation.php on line 3259
+
+2021-01-27T02:24:25+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 8192 bytes) in /var/www/html/brownsville/wp-includes/media.php on line 3511
+
+2021-01-27T03:38:26+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 8192 bytes) in /var/www/html/brownsville/wp-includes/media.php on line 3511
+
+2021-01-27T03:52:11+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 4096 bytes) in /var/www/html/brownsville/wp-includes/media.php on line 3511
+
+2021-01-27T04:10:17+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 4096 bytes) in /var/www/html/brownsville/wp-includes/media.php on line 3511
+
+2021-01-27T04:47:57+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 16384 bytes) in /var/www/html/brownsville/wp-includes/class-wp-image-editor-gd.php on line 102
+
+2021-01-27T04:58:53+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in /var/www/html/brownsville/wp-includes/media.php on line 3511
+
+2021-01-27T05:00:39+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 8192 bytes) in /var/www/html/brownsville/wp-content/plugins/wolf-visual-composer/inc/utility-functions.php on line 418
+
+2021-01-27T05:18:35+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 724992 bytes) in /var/www/html/brownsville/wp-includes/class-wp-image-editor-gd.php on line 96
+
+2021-01-27T05:34:08+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 131072 bytes) in /var/www/html/brownsville/wp-content/plugins/woocommerce/i18n/countries.php on line 221
+
+2021-01-27T05:38:15+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 7592376 bytes) in /var/www/html/brownsville/wp-includes/class-wp-image-editor-gd.php on line 96
+
+2021-01-27T20:42:09+00:00 CRITICAL Out of memory (allocated 58720256) (tried to allocate 131072 bytes) in /var/www/html/brownsville/wp-content/themes/bronze/inc/theme-functions.php on line 4660
+
+2021-01-27T21:04:07+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 65536 bytes) in /var/www/html/brownsville/wp-content/plugins/contact-form-7/modules/recaptcha/recaptcha.php on line 145
+
+2021-01-27T21:19:03+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 77824 bytes) in /var/www/html/brownsville/wp-content/plugins/js_composer/include/params/google_fonts/google_fonts.php on line 33
+
+2021-01-27T21:35:01+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 8192 bytes) in /var/www/html/brownsville/wp-content/themes/bronze/inc/frontend/helpers.php on line 128
+
+2021-01-27T21:35:41+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/brownsville/wp-content/themes/bronze/inc/frontend/helpers.php on line 128
+
+2021-01-27T21:36:29+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 32768 bytes) in /var/www/html/brownsville/wp-content/plugins/wolf-visual-composer/inc/elements/single-image.php on line 326
+
+2021-01-27T23:37:26+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 12288 bytes) in /var/www/html/brownsville/wp-content/themes/bronze/inc/frontend/helpers.php on line 128
+
+2021-01-27T23:38:06+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 16384 bytes) in /var/www/html/brownsville/wp-content/plugins/wolf-visual-composer/inc/utility-functions.php on line 418
+
+2021-01-27T23:52:09+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 12288 bytes) in /var/www/html/brownsville/wp-content/themes/bronze/inc/frontend/helpers.php on line 128
+
+2021-01-27T23:52:41+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 135168 bytes) in /var/www/html/brownsville/wp-admin/includes/file.php on line 88
+
+2021-01-27T23:54:34+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 2097160 bytes) in /var/www/html/brownsville/wp-admin/includes/file.php on line 88
+
+2021-01-27T23:55:52+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 16384 bytes) in /var/www/html/brownsville/wp-content/plugins/wolf-visual-composer/inc/utility-functions.php on line 418
+
+2021-01-27T23:56:55+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 2097160 bytes) in /var/www/html/brownsville/wp-admin/includes/file.php on line 88
+
+2021-01-27T23:57:34+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 16384 bytes) in /var/www/html/brownsville/wp-content/plugins/wolf-visual-composer/inc/utility-functions.php on line 418
+
